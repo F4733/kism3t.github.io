@@ -4,20 +4,20 @@ title: Home
 ---
 
 * * *
-### Welcome To My Cyber Security Blog, H4X0r
+### Welcome To My Cyber Security Blog.
 * * *
 
-Yo 👋, Welcome To My Cyber Security Blog I'm nighthawk, I Post Different Hacking Tricks, Writeups, Articles, Any Stuffs Related To Hacking That I Learn... Yoroshiku ne😉
+Greetings hacker and fellow enthusiast, welcome to my blog where I'll be sharing CTF tricks, writeups, and discoveries. Join me on this journey of exploration, let's connect too.
 
 * * *
 ### WhoAmI:~#
 * * *
 
-- **My Name:**    `Adebayo Segun`
-- **Known as:**   `nighthawk`
+- **My Name:**    `Abdulhakeem Onipede`
+- **Known as:**   `Kismet`
 - **What Do I Do:**  `CTF / Red Teaming / Ethical Hacking`
-- **Twitter:** `https://twitter.com/n16h7hawk`
-- **Github:** `https://github.com/n16hth4wk07`
+- **Twitter:** `https://twitter.com/kism3t_09`
+- **Github:** `https://github.com/kism37`
 
 * * *
 ### **Box Pwning Grounds:~#**
