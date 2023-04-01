@@ -23,6 +23,11 @@ Greetings hacker and fellow enthusiast, welcome to my blog where I'll be sharing
 ### **Box Pwning Grounds:~#**
 * * *
 
+* * *
+ ### **CTF Writeups:~#**
+* * *
+- [[Mar 28 2023]] [picoCTF2023](https://kism37.github.io/posts/picoCTF2023/writeups.html)
+
 -
 
 * * *
