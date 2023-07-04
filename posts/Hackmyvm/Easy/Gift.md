@@ -26,7 +26,9 @@ Then i landed a hit.
 
 ![image](https://github.com/kism37/kism37.github.io/assets/115076145/01780b99-dd3e-4c6d-b0e2-5631dd55b0a9)
 
-```root:simple```
+```
+root:simple
+```
 
 I 'ssh-ed' into machine and got root access straight up and found user and root flag.
 ![image](https://github.com/kism37/kism37.github.io/assets/115076145/9a30cd0c-af25-4b44-92db-e741f0a1e3f4)
