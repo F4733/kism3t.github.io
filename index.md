@@ -32,3 +32,8 @@ Greetings hacker and fellow enthusiast, welcome to my blog where I'll be sharing
 * * *
 ### **TryHackMe Writeups:~#**
 * * *
+
+* * *
+### **Hackmyvm Writeups:~#**
+* * *
+- [[JUly 5 2023]] [Gift](https://kism37.github.io/posts/Hackmyvm/Easy/Gift.html)
