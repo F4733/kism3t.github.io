@@ -1,9 +1,12 @@
+<h3>Hackmyvm - Gift</h3>
+
 After spawning up the target machine, we do an fping to get target IP
 
 ![image](https://github.com/kism37/kism37.github.io/assets/115076145/155907e7-3e92-4eea-b32d-a93d331b7ac4)
 
  
-since *.*.*.62 and *.*.*.119 are my AP and my machine's address respectively, Target IP should be 192.168.8.179. Added IP to /etc/hosts with name 'gift.hmv'
+since *.*.*.62 and *.*.*.119 are my AP and my machine's address respectively, Target IP should be 192.168.8.179 
+Added IP to `/etc/hosts` with name `gift.hmv`
 
 ran full nmap scan on target IP and found ssh and http open..
 
