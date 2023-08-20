@@ -23,7 +23,6 @@ Greetings hacker and fellow enthusiast, welcome to my blog where I'll be sharing
 ### **Box Pwning Grounds:~#**
 * * *
 
-* * *
 ### **CTF Writeups:~#**
 * * *
 
