@@ -1,7 +1,7 @@
 ## About
 
 
-- 👋 Holla amigo, I’m @Kismet
+- 👋 Hello, I’m @Kismet
 
 - 🤓 I’m a Cyber Security Enthusiast
 
@@ -9,4 +9,4 @@
 
 - 🤝 I’m looking to collaborate on Projects
 
-- 📫 How to reach me on Discord @Kismet#4238 Twitter @kism3t_09
+- 📫 You can reach me on Discord @Kismet#4238 or Twitter @kism3t_09
